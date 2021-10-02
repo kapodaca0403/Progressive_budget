@@ -19,7 +19,11 @@ This project is licensed under the MIT license.
 ## Description
 
 This progressive budget allows users to add and deposit their expenses with or without connection giving users the ability to track their money on the go! Since this app allows for changes to be made will offline. The total will be calculating each time and entry has been entered.
-Here is the deployed heroku link:
+Here is the deployed heroku link: https://katerz-progressive-bud.herokuapp.com/
+
+
+![progressive budget](https://user-images.githubusercontent.com/87509827/135707301-7b868f30-6409-466b-8450-b092596e047b.gif)
+
 
 ## Technology
 
